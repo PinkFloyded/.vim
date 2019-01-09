@@ -8,3 +8,5 @@ set relativenumber
 setlocal smartindent
 setlocal autoindent
 set shiftround
+set splitright
+set splitbelow
